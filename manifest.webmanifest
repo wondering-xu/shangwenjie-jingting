@@ -1,0 +1,11 @@
+{
+  "name":"尚捷雯精听",
+  "short_name":"尚捷雯精听",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f7f7f4",
+  "theme_color":"#f7f7f4",
+  "lang":"zh-CN",
+  "description":"独立记录英语听力学习时间、理解程度与间隔复习。",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
